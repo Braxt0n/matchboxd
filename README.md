@@ -70,6 +70,7 @@
 - [ ] Improve error handling and reporting.
 - [ ] Add unit tests for better code coverage.
 - [ ] Optimize scraping performance with concurrent requests.
+- [ ] JustWatch integration to filter by streaming service.
 
 ## Contributing
 
